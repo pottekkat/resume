@@ -1,20 +1,31 @@
 # Jobs
-# VP of Global Communications
+# Author
 - company: Towards Data Science
   position: Author
   duration: May, 2020 &mdash; Present
   summary: I write articles and tutorials in the fields of Computer Vision, Deep Learning, TensorFlow and TensorFlow Lite.
 
-# Director of Digital Stratgy
+# ML Engineer
 - company: STEM.tisch Technologies
   position: Machine Learning Engineer(Intern)
   duration:  April, 2020 &mdash; Present
   summary: Worked on building computer vision models for edge devices.</br>Worked with TensorFlow Lite to optimize models and to reduce latency.
 
 
-# Communications Coordinator
+# Software Engineer
 - company: STAKQUE Technologies
   position: Software Engineer (Freelance)
   duration:   December, 2019  &mdash; February, 2020
   summary: Worked on an employee management system for an MNC.</br>Developed dashboards for mobile apps using Flutter and Firebase.
 
+# Product Consultant
+- company: Mitsogo Inc
+  position: Software Engineer (Freelance)
+  duration:   July, 2019  &mdash; December, 2019
+  summary: Worked with clients from all over the world helping them deploy MDM solutions to their workforce.
+
+# Project Trainee
+- company: Bhabha Atomic Research Centre
+  position: Software Engineer (Freelance)
+  duration:   May, 2018  &mdash; August, 2018
+  summary: Worked on building an embedded system that would determine the shaft position of a resolver at high RPMs.</br>Built and implemented hardware for sampling high frequency signals and developed software to read and interpret this data.

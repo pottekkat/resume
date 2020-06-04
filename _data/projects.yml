@@ -1,16 +1,44 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# COVID 19 detection using chest X-rays
+- project: COVID 19 detection using chest X-rays
+  # role: Founder & Primary Developer
+  # duration: 2012 &mdash; Present
+  url: "https://www.linkedin.com/posts/navendup_deeplearning-computervision-covid19-activity-6667098199813181440-34kh"
+  description: Deep learning based model using CNNs that can determine if a person has been infected with COVID 19 from their chest X-ray. Developed an efficient method to enlarge the dataset by image augmentation to receive 99% accuracy.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Real-time object detection in mobile
+- project: Real-time object detection in mobile
+  # role: Co-Founder & Organizer
+  # duration: 2007 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Android app that uses a pre-trained TensorFlow Lite model to infer classes of objects fed real-time through the device camera.
+
+# Heart disease detection
+- project: Heart disease detection
+  # role: Founder & Primary Developer
+  # duration: 2012 &mdash; Present
+  url: "https://github.com/navendu-pottekkat/heart-disease-classifier"
+  description: Resting blood pressure, ECG results and other clinical parameters were used to determine if a person has heart disease. Used logistic regression model to obtain an AUC score of 0.93.
+
+# Virtual drums
+- project: Virtual drums
+  # role: Co-Founder & Organizer
+  # duration: 2007 &mdash; Present
+  url: "https://towardsdatascience.com/virtual-drum-set-using-opencv-ebcb1553c778"
+  description: Object detection using OpenCV was used to detect drumsticks and to display virtual drums on the screen. It can be played using a webcam in real-time.
+
+# Data Science Bootcamp
+- project: Data Science Bootcamp
+  # role: Founder & Primary Developer
+  # duration: 2012 &mdash; Present
+  url: "https://dsbootcamp.org"
+  description: A blog aimed to help students get started in the field of Data Science, Machine Learning and Deep Learning without any previous experience.
+
+# Dog Eyes
+- project: Dog Eyes
+  # role: Co-Founder & Organizer
+  # duration: 2007 &mdash; Present
+  url: "https://github.com/navendu-pottekkat/dog-eyes"
+  description: A Deep Learning model built on top of MobileNetV2 trained on ImageNet dataset to classify 100+ dog breeds.
