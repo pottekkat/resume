@@ -1,6 +1,20 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+# NSFW Filter
+- project: NSFW Filter
+  role: Founder & Lead Maintainer
+  # duration: 2012 &mdash; Present
+  url: "https://github.com/nsfw-filter/nsfw-filter"
+  description: Extension that uses Computer Vision in TFJS to filter out inappropriate images from the browser. Featured in Product Hunt, Javascript Weekly and App Inn. 2000+ downloads.
+
+# Teachable Machine
+- project: Teachable Machine
+  # role: Founder & Lead Maintainer
+  # duration: 2012 &mdash; Present
+  url: "https://navendu.me/teachable-machine/"
+  description: A Computer Vision model that can be trained on the browser using a webcam.
+
 # COVID 19 detection using chest X-rays
 - project: COVID 19 detection using chest X-rays
   # role: Founder & Primary Developer
@@ -8,37 +22,9 @@
   url: "https://www.linkedin.com/posts/navendup_deeplearning-computervision-covid19-activity-6667098199813181440-34kh"
   description: Deep learning based model using CNNs that can determine if a person has been infected with COVID 19 from their chest X-ray. Developed an efficient method to enlarge the dataset by image augmentation to receive 99% accuracy.
 
-# Real-time object detection in mobile
-- project: Real-time object detection in mobile
-  # role: Co-Founder & Organizer
-  # duration: 2007 &mdash; Present
-  # url: "#"
-  description: Android app that uses a pre-trained TensorFlow Lite model to infer classes of objects fed real-time through the device camera.
-
-# Heart disease detection
-- project: Heart disease detection
-  # role: Founder & Primary Developer
-  # duration: 2012 &mdash; Present
-  url: "https://github.com/navendu-pottekkat/heart-disease-classifier"
-  description: Resting blood pressure, ECG results and other clinical parameters were used to determine if a person has heart disease. Used logistic regression model to obtain an AUC score of 0.93.
-
 # Virtual drums
 - project: Virtual drums
   # role: Co-Founder & Organizer
   # duration: 2007 &mdash; Present
   url: "https://towardsdatascience.com/virtual-drum-set-using-opencv-ebcb1553c778"
   description: Object detection using OpenCV was used to detect drumsticks and to display virtual drums on the screen. It can be played using a webcam in real-time.
-
-# Data Science Bootcamp
-- project: Data Science Bootcamp
-  # role: Founder & Primary Developer
-  # duration: 2012 &mdash; Present
-  url: "https://dsbootcamp.org"
-  description: A blog aimed to help students get started in the field of Data Science, Machine Learning and Deep Learning without any previous experience.
-
-# Dog Eyes
-- project: Dog Eyes
-  # role: Co-Founder & Organizer
-  # duration: 2007 &mdash; Present
-  url: "https://github.com/navendu-pottekkat/dog-eyes"
-  description: A Deep Learning model built on top of MobileNetV2 trained on ImageNet dataset to classify 100+ dog breeds.

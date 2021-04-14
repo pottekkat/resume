@@ -1,6 +1,6 @@
 # Site settings
 title: "Resume- Navendu"
-description: "Navendu - Machine Learning Engineer"
+description: "Navendu - Software Engineer"
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Navendu Niranjan P"
-resume_title:                   "Machine Learning Engineer"
+resume_title:                   "Software Engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "navendupottekkat@gmail.com"
@@ -23,7 +23,7 @@ resume_contact_address:         "Kochi, India"
 resume_header_contact_info:     "+91-9567210454 • navendupottekkat@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Machine Learning Engineer with a strong commitment to open-source. Working in bringing Computer Vision and Deep Learning to edge devices. Passionate about learning and sharing my knowledge with the community.</p>"
+resume_header_intro: "<p>Software Engineer working on Service Meshes, Deep Learning, Memristive Systems and Everything Open-Source.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -46,7 +46,7 @@ resume_section_links:           true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/navendu-pottekkat"
-  resume_twitter_url:           "http://twitter.com/navendu_23"
+  resume_twitter_url:           "http://twitter.com/sudo_navendu"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   resume_facebook_url:          "https://www.facebook.com/navendupottekkat/"
   resume_linkedin_url:          "https://www.linkedin.com/in/navendup"
